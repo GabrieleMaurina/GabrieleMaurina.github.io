@@ -7,4 +7,4 @@
 
 I love Python and chess. I am currently working on regression test selection.
 
-Check out my projects on github: https://github.com/GabrieleMaurina
+Check out my projects on github: [github.com/GabrieleMaurina](https://github.com/GabrieleMaurina "Github Gabriele Maurina")
